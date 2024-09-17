@@ -2,7 +2,9 @@
 
 In questa repository è presente il progetto di Basi di Dati, svolto nell'anno accademico 2022/2023.
 
-Tra i vari file è possibile trovare il diagramma EER e il diagramma relazionale.
+Tra i vari file è possibile trovare il diagramma EER, il diagramma relazionale ed il pdf "Centro_Sportivo_Parthenope" che ci permettono di capire meglio il progetto.
+
+Tra i vari file, è possibile trovare il diagramma EER e il diagramma relazionale, che rappresentano rispettivamente il modello concettuale e logico del database, facilitando la comprensione delle relazioni tra le entità coinvolte. Inoltre, il file "Centro_Sportivo_Parthenope.pdf" contiene la traccia completa, fornendo una visione dettagliata dei requisiti del sistema.
 
 # Centro sportivo Parthenope
 
