@@ -2,6 +2,8 @@
 
 In questa repository è presente il progetto di Basi di Dati, svolto nell'anno accademico 2022/2023.
 
+Tra i vari file è possibile trovare il diagramma EER e il diagramma relazionale.
+
 # Centro sportivo Parthenope
 
 Questo progetto è dedicato alla gestione di un centro sportivo chiamato "Parthenope". Il sistema proposto permette di registrare e gestire dati relativi ai soci, come informazioni personali e abbonamenti, tenendo traccia di dettagli come il nome, il cognome, la data di nascita e gli abbonamenti scelti.
